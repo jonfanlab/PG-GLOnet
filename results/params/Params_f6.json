@@ -1,0 +1,11 @@
+{
+    "func_num": 10,
+    "net": "ResNet",
+    "dim": 1000,
+    "num_layers": 4,
+    "lr": 0.002,
+    "num_iter": 500,
+    "batch_size": 200,
+    "sigma": 0.5,
+    "output_dir": "results/f6"
+}
